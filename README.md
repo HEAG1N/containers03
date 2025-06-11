@@ -3,9 +3,11 @@ Utilizarea containerelor ca medii de execuție
 Scop
 
 Această lucrare de laborator are ca scop familiarizarea cu comenzile de bază ale OS Debian/Ubuntu. De asemenea, aceasta va permite să vă familiarizați cu Docker și comenzile sale de bază.
+
 Sarcina
 
 Pornind de la imaginea oficială a sistemului de operare Ubuntu, să se creeze un container care să conțină un server web Apache. Să se creeze o pagină web care să conțină textul "Hello, World!" și să se afișeze într-un browser.
+
 Executare
 
 Am creat un nou repository containers03 și il clonam pe computer.
