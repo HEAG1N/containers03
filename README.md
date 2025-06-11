@@ -52,8 +52,6 @@ Se listează conținutul directorului web root Apache:
 
 ls -l /var/www/html/
 
-![420670549-b2cb6e23-d5f8-4386-901b-5a50c3a451fb](https://github.com/user-attachments/assets/03d4863e-cb39-4559-a981-024bdd026666)
-
 Această comandă afișează permisiunile, proprietarul și dimensiunea fișierelor din directorul web.
 
 Se creează fișierul index.html cu următorul conținut:
